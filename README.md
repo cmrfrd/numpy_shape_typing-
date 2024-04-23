@@ -17,7 +17,7 @@ def Linear(
     return ravel(Axb)
 ```
 
-For accessibility and reproducibility, a devcontainer + docker is provided.
+For accessibility and reproducibility, a devcontainer is provided.
 
 ## How to run
 
